@@ -1,0 +1,15 @@
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\bin\Debug\net6.0\ACorridaDeTartarugas.exe
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\bin\Debug\net6.0\ACorridaDeTartarugas.deps.json
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\bin\Debug\net6.0\ACorridaDeTartarugas.runtimeconfig.json
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\bin\Debug\net6.0\ACorridaDeTartarugas.dll
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\bin\Debug\net6.0\ACorridaDeTartarugas.pdb
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.csproj.AssemblyReference.cache
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.AssemblyInfoInputs.cache
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.AssemblyInfo.cs
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.csproj.CoreCompileInputs.cache
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.dll
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\refint\ACorridaDeTartarugas.dll
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.pdb
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ACorridaDeTartarugas.genruntimeconfig.cache
+C:\Workspace\DesafiosBootcamp\ACorridaDeTartarugas\obj\Debug\net6.0\ref\ACorridaDeTartarugas.dll
