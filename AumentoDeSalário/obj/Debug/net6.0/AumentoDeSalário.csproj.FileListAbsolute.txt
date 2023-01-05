@@ -1,0 +1,15 @@
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\bin\Debug\net6.0\AumentoDeSalário.exe
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\bin\Debug\net6.0\AumentoDeSalário.deps.json
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\bin\Debug\net6.0\AumentoDeSalário.runtimeconfig.json
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\bin\Debug\net6.0\AumentoDeSalário.dll
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\bin\Debug\net6.0\AumentoDeSalário.pdb
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.csproj.AssemblyReference.cache
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.AssemblyInfoInputs.cache
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.AssemblyInfo.cs
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.csproj.CoreCompileInputs.cache
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.dll
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\refint\AumentoDeSalário.dll
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.pdb
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\AumentoDeSalário.genruntimeconfig.cache
+C:\Workspace\DesafiosBootcamp\AumentoDeSalário\obj\Debug\net6.0\ref\AumentoDeSalário.dll
